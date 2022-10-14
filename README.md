@@ -4,7 +4,7 @@
 
 *I am interested in data science because I love Data*
 
-### My code below is about the Gauss formula
+### My code below is about inline
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
