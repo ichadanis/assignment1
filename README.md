@@ -1,8 +1,8 @@
 # My Jupyter Notebook on IBM Watson Studio
 
-**Annisa **
+**Annisa**
 
-** No occupation**
+No occupation
 
 *I am interested in data science because I love Data*
 
