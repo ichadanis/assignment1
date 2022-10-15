@@ -8,6 +8,8 @@ No occupation
 
 ### My code below is about inline
 ```python
-s = 1+1
-print s
+def s(n) 
+return n = n+1
+
+s(1)==2
 ```
