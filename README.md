@@ -13,9 +13,9 @@ return n = n+1
 
 s(1)==2
 ```
-I learn in Coursera...
+I learn in Coursera
 
----
+***
 
 About Data Science Tool
 
@@ -23,6 +23,6 @@ About Data Science Tool
 
 Thank you
 
-___
+***
 
 Done
